@@ -1,0 +1,9 @@
+{
+  "recommendations": ["bradlc.vscode-tailwindcss"],
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  }
+}
